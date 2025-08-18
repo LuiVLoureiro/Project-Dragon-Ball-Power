@@ -103,6 +103,7 @@ dragonball_power_stats_plus/
 
 ### Diagrama Entidade-Relacionamento (Banco de Dados)
 
-<img width="1769" height="944" alt="Diagrama Banco de Dados" src="https://github.com/user-attachments/assets/8a79f077-a944-4da9-89be-865a7c989579" />
+<img width="1769" height="944" alt="Diagrama Banco de Dados" src="https://github.com/user-attachments/assets/0263b809-1bd3-4fcb-b30c-0b4d3fccc512" />
+
 
 
